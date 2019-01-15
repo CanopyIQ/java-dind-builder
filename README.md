@@ -1,2 +1,2 @@
 # java-dind-builder
-Java 8 Builder for circleci
+Java 11 Builder for circleci
